@@ -5,7 +5,7 @@ This project analyzes gait data to identify key biomarkers (ankle, thigh, trunk)
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gait-analysis.git
+   git clone https://github.com/sri-megha/gait-analysis.git
    cd gait-analysis
    ```
 2. Install dependencies:
